@@ -1,4 +1,4 @@
-#Analyse du marché Steam
+# Analyse du marché Steam
 
 ## Description
 Analyse exploratoire de 122 000 jeux Steam pour identifier les tendances du marché.
