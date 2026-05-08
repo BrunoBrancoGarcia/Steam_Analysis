@@ -1,5 +1,4 @@
 # Analyse du marché Steam
-
 ## Description
 Analyse exploratoire de 122 000 jeux Steam pour identifier les tendances du marché.
 
@@ -12,12 +11,13 @@ Analyse exploratoire de 122 000 jeux Steam pour identifier les tendances du marc
 ## Outils utilisés
 - Python (pandas, matplotlib, seaborn)
 - SQL (SQLite)
-- Power BI (Exemple de dashboard comme PDF)
+- Power BI (Exemple de dashboard en PDF)
 
 ## Fichiers
 - `analyse.ipynb` : notebook complet avec analyses et visualisations
-- `steam_clean.csv` : dataset nettoyé
-- `dashboard_powerbi.pdf` : dashboard interactif
+- `dashboard_powerbi.pdf` : dashboard Power BI
+- Note : Le dataset nettoyé (`steam_clean.csv`) n'est pas inclus en raison de sa taille. Téléchargez le dataset brut sur Kaggle (lien ci-dessous) et exécutez le notebook pour le générer.
+
 
 ## Données
 Dataset : [Steam Games Dataset (Kaggle)](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
